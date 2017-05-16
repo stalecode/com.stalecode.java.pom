@@ -9,7 +9,7 @@
 	<artifactId>com.stalecode.java</artifactId>
 	<packaging>pom</packaging>
 	<name>Stalecode Java Parent POM</name>
-	<description>Parent POM for Stalecode Java projects</description>
+	<description>Stalecode Java project</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
